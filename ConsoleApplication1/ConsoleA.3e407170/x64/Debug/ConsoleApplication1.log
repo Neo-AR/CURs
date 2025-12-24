@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+D:\Работы для универа\ConsoleApplication1\ConsoleApplication1.cpp(239,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Работы для универа\ConsoleApplication1\ConsoleApplication1.cpp(262,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Работы для универа\ConsoleApplication1\ConsoleApplication1.cpp(314,12): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+D:\Работы для универа\ConsoleApplication1\ConsoleApplication1.cpp(317,27): warning C4566: символ, представленный универсальным именем символа "\u2192", невозможно представить в текущей кодовой странице (1251)
+  ConsoleApplication1.vcxproj -> D:\Работы для универа\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
